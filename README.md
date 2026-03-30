@@ -1,19 +1,3 @@
-
-<!--
-**AuraShivam/AuraShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Shivam Chaudhary</h1>
 <h3 align="center">I’m interested in Web Development, AI, ML & Data Science. </h3>
 
@@ -52,6 +36,10 @@ Here are some ideas to get you started:
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/canva" title="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/figma" title="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/adobephotoshop" title="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/adobeillustrator" title="Illustrator" width="40" height="40"/>&nbsp;
 
 
 
