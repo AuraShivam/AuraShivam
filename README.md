@@ -36,13 +36,11 @@
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
-  <p align="left">
   <img src="https://cdn.simpleicons.org/github" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40" height="40"/>
-  </p>
 
 
 ---
