@@ -32,6 +32,7 @@
  
   <!-- Databases & APIs -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" width="40" height="40"/>&nbsp;
 
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
