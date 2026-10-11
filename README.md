@@ -11,9 +11,10 @@
 
 - 🔭 I’m currently working on: **AI Agent Projects & Web Apps**
 - 🌱 I’m learning: **Multi-Agent Systems, LLM APIs**
-- 💬 Ask me about: **React, AI, Python, Full Stack Dev, AI Agents**
+- ✅ I’m SAP Certified - Back-End Developer - ABAP Cloud & SAP Generative AI Developer
+- 💬 Ask me about: **React, AI, Python, C++, SAP ABAP, Full Stack Dev, AI Agents**
 - 👯 I’m open to collaborate on: **Open source / AI tools / Hackathons**
-- 📫 How to reach me: [chaudharyshivam9475@gmail.com] 
+- 📫 How to reach me: [chaudharyshivam9475@gmail.com] OR [aurashivam2006@gmail.com] 
 - ⚡ Fun fact: I love music, coding, and clean UI!
 
 ---
